@@ -17,3 +17,4 @@
 toolkit-log4j=org.apache.skywalking.apm.toolkit.activation.log.log4j.v1.x.TraceIdPatternConverterActivation
 toolkit-log4j=org.apache.skywalking.apm.toolkit.activation.log.log4j.v1.x.SkyWalkingContextPatternConverterActivation
 toolkit-log4j=org.apache.skywalking.apm.toolkit.activation.log.log4j.v1.x.log.GRPCLogAppenderActivation
+toolkit-log4j=org.apache.skywalking.apm.toolkit.activation.log.log4j.v1.x.mdcv2.MDCV2Activation

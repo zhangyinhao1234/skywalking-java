@@ -23,3 +23,4 @@ toolkit-logback=org.apache.skywalking.apm.toolkit.activation.log.logback.v1.x.lo
 toolkit-logback=org.apache.skywalking.apm.toolkit.activation.log.logback.v1.x.logstash.TraceIdJsonProviderActivation
 toolkit-logback=org.apache.skywalking.apm.toolkit.activation.log.logback.v1.x.logstash.SkyWalkingContextJsonProviderActivation
 toolkit-logback=org.apache.skywalking.apm.toolkit.activation.log.logback.v1.x.log.GRPCLogAppenderActivation
+toolkit-logback=org.apache.skywalking.apm.toolkit.activation.log.logback.v1.x.mdcv2.MDCV2Activation
